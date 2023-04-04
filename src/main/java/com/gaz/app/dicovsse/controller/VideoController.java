@@ -2,6 +2,7 @@ package com.gaz.app.dicovsse.controller;
 
 import com.gaz.app.dicovsse.repository.VideoRepository;
 
+// CLASE DEPENDIENTE.
 public class VideoController {
 
     private final VideoRepository repository;
